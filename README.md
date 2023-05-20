@@ -42,4 +42,4 @@ npm test
 
 Link to repo: https://github.com/anicrob/logo-generator
 
-Link to video: 
+Link to video: https://watch.screencastify.com/v/Ld3H3YtmfIdQLid2DQnt
