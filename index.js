@@ -1,3 +1,3 @@
-//requiring the shapres.js module here
+//requiring the CLI module here
 const CLI = require('./lib/CLI');
 new CLI().run();
